@@ -1,3 +1,7 @@
+<head>
+		<link rel="shortcut icon" type="image/x-icon" href="/img/me.png">
+</head>
+
 # About me
 
 Something something
