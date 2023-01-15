@@ -1,0 +1,3 @@
+<head>
+<link rel="icon" href="img/me.png" type="image/x-icon">
+</head>
