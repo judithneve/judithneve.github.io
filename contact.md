@@ -3,18 +3,18 @@
 <style>
 .colimage{
   float: left;
-  width: 64px;
-  height: 64px;
+  width: 32px;
+  height: 32px;
 }
 .colempty{
   float: left;
   width: 10px;
-  height: 64px;
+  height: 32px;
 }
 .collink{
   float: left;
-  height: 64px;
-  line-height: 64px;
+  height: 32px;
+  line-height: 32px;
 }
 .row:after{
   content: "";
@@ -27,7 +27,7 @@
 
 <div class="row">
 <div class="colimage">
-  <img src="img/email.png" width="64" />
+  <img src="img/email.png" width="32" />
 </div>
 <div class="colempty">
 </div>
@@ -40,7 +40,7 @@
 
 <div class="row">
 <div class="colimage">
-  <img src="img/linkedin.png" width="64" />
+  <img src="img/linkedin.png" width="32" />
 </div>
 <div class="colempty">
 </div>
@@ -53,7 +53,7 @@
 
 <div class="row">
 <div class="colimage">
-  <img src="img/twitter.png" width="64" />
+  <img src="img/twitter.png" width="32" />
 </div>
 <div class="colempty">
 </div>
