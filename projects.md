@@ -2,9 +2,13 @@
 
 ## Academic projects
 
-Thesis
+### Master's thesis *[in progress]*
 
-Undergrad dissertation
+**Title:** Evaluating tuning strategies for random forest hyperparameters with regards to prediction performance of clinical prediction models and computational time.
+
+### Undergraduate dissertation *[completed]*
+
+**Title:** The evolution of data sharing practices in the psychological literature.
 
 ## Research assistant projects
 
