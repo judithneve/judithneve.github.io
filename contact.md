@@ -1,13 +1,17 @@
 # Contact
 
-:::: {.columns}
-::: {.column width="10%"}
-<img src="img/email.png" width="64" />
-:::
-::: {.column width="90%"}
-<a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
-:::
-::::
+.table { border:1px solid black; padding:10px; width:400px; overflow:hidden; }
+.left { float:left; width:200px; }
+.right { float:right; width:200px;  }
+
+<div class="table">
+    <div class="left">
+        Content of the first column.
+    </div>
+    <div class="right">   
+       Content of the second column. 
+    </div>        
+</div>
 
 <br>
 

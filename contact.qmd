@@ -1,0 +1,19 @@
+---
+title: "Contact"
+---
+
+:::: {.columns}
+
+::: {.column width=10%}
+
+![](img/email.png)
+
+:::
+
+::: {.column width=90%}
+
+[j.a.nevedemevergnies@uu.nl](mailto:j.a.nevedemevergnies@uu.nl)
+
+:::
+
+::::
