@@ -8,10 +8,10 @@ output:
 
 <br>
 
-<div class="column image">
+<div class="column image" style="background-color:#aaa;">
   <img src="img/email.png" width="64" />
 </div>
-<div class="column link">
+<div class="column link" style="background-color:#bbb;">
   <a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
 </div>
 
