@@ -6,7 +6,7 @@ title: "Contact"
 
 ::: {.column width=10%}
 
-![](img/email.png)
+<img src="img/email.png" width="64" />
 
 :::
 
