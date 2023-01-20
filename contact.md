@@ -1,5 +1,14 @@
 # Contact
 
+:::: {.columns}
+::: {.column width="10%"}
+<img src="img/email.png" width="64" />
+:::
+::: {.column width="90%"}
+<a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
+:::
+::::
+
 <br>
 
 <img src="img/email.png" width="64" /><a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
