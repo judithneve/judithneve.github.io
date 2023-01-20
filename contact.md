@@ -1,26 +1,29 @@
 # Contact
 
 <style>
-.column{
+.colimage{
   float: left;
   width: 64px;
 }
-
-image{
-  width: 5%;
+.colempty{
+  float: left;
+  width: 10px;
 }
-
-link{
-  width: 15%;
+.collink{
+  float: left;
+  width: 128px;
 }
 </style>
 
 <br>
 
-<div class="column" style="background-color:#aaa;">
+<div class="colimage" style="background-color:#aaa;">
   <img src="img/email.png" width="64" />
 </div>
-<div class="column link" style="background-color:#bbb;">
+<div class="colempty" style="background-color:#bbb;">
+  <img src="img/email.png" width="64" />
+</div>
+<div class="collink" style="background-color:#ccc;">
   <a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
 </div>
 
