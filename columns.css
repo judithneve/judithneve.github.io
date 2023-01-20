@@ -1,4 +1,12 @@
 .column {
-    float: left;
-    width: 50%;
+  float: left;
+  align-items:center;
+}
+
+.image {
+  width: 10%;
+}
+
+.link {
+  width: 90%;
 }
