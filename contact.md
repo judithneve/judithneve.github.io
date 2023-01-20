@@ -1,14 +1,23 @@
----
-output:
-  html_document: 
-    css: columns.css
----
-
 # Contact
+
+<style>
+.column{
+  float: left;
+  width: 64px;
+}
+
+image{
+  width: 5%;
+}
+
+link{
+  width: 15%;
+}
+</style>
 
 <br>
 
-<div class="column image" style="background-color:#aaa;">
+<div class="column" style="background-color:#aaa;">
   <img src="img/email.png" width="64" />
 </div>
 <div class="column link" style="background-color:#bbb;">
