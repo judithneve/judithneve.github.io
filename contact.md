@@ -14,11 +14,18 @@
 .collink{
   float: left;
   height: 64px;
+  line-height: 64px;
+}
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
 
 <br>
 
+<div class="row">
 <div class="colimage" style="background-color:#aaa;">
   <img src="img/email.png" width="64" />
 </div>
@@ -26,6 +33,7 @@
 </div>
 <div class="collink" style="background-color:#ccc;">
   <a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
+</div>
 </div>
 
 <br>
