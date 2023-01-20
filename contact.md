@@ -11,7 +11,7 @@ output:
 <div class="column image">
   <img src="img/email.png" width="64" />
 </div>
-<div class="column link">
+<div class="column">
   <a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
 </div>
 
