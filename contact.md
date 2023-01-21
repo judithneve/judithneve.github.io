@@ -45,7 +45,7 @@
 <div class="colempty">
 </div>
 <div class="collink">
-  <a href="https://www.linkedin.com/in/judith-neve/">Judith Neve</a>
+  <a href="https://www.linkedin.com/in/judith-neve/">judith-neve</a>
 </div>
 </div>
 
@@ -59,5 +59,18 @@
 </div>
 <div class="collink">
   <a href="https://twitter.com/JudithNeve">@JudithNeve</a>
+</div>
+</div>
+
+<br>
+
+<div class="row">
+<div class="colimage">
+  <img src="img/github.png" width="32" />
+</div>
+<div class="colempty">
+</div>
+<div class="collink">
+  <a href="https://github.com/judithneve">judithneve</a>
 </div>
 </div>
