@@ -11,9 +11,7 @@
 I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](https://juliuscentrum.umcutrecht.nl/en/). My project aims to improve tuning strategies for random forests with a dichotomous outcome, focusing on predictive performance via calibration. I aim to do this in three steps:
 
 1. Identify which hyperparameters have the largest effect on calibration.
-
 2. Identify a metric to optimise.
-
 3. Identify the best hyperparameter search algorithm.
 
 In a world where machine learning is growing exponentially and increasingly adding to carbon emissions, this project also focuses on the computational time of tuning procedures.
