@@ -6,7 +6,7 @@
 
 **Title:** Evaluating tuning strategies for random forest hyperparameters with regards to prediction performance of clinical prediction models and computational time.
 
-**Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) | Zoe Dunias | [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
+**Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) \| Zoe Dunias \| [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
 
 I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](https://juliuscentrum.umcutrecht.nl/en/). My project aims to improve tuning strategies for random forests with a dichotomous outcome, focusing on predictive performance via calibration. I aim to do this in three steps:
 
@@ -18,7 +18,7 @@ I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](h
 
 In a world where machine learning is growing exponentially and increasingly adding to carbon emissions, this project also focuses on the computational time of tuning procedures.
 
-[GitHub repository](https://github.com/judithneve/HyperparameterTuning) | <a href="https://judithneve.github.io/HyperparameterTuningPreliminaryResults.pdf" target="_blank">Report on preliminary results</a>
+[GitHub repository](https://github.com/judithneve/HyperparameterTuning) \| <a href="https://judithneve.github.io/HyperparameterTuningPreliminaryResults.pdf" target="_blank">Report on preliminary results</a>
 
 ### Undergraduate dissertation *[completed]*
 
@@ -28,7 +28,7 @@ In a world where machine learning is growing exponentially and increasingly addi
 
 This project focused on evaluating the rate at which data is shared and how it is shared over time. I focused on three journals that have implemented policies regarding data sharing and examined differences before and after policy implementations, as well as computing a baseline data sharing rate using three journals with no policies.
 
-[OSF project](https://osf.io/567vb/) | [Preprint](https://psyarxiv.com/3xdja)
+[OSF project](https://osf.io/567vb/) \| [Preprint](https://psyarxiv.com/3xdja)
 
 ### Other projects
 
@@ -43,7 +43,7 @@ This project focused on evaluating the rate at which data is shared and how it i
 ### CTmeta
 
 I worked as a research assistant for [Dr. Rebecca Kuiper](https://www.uu.nl/medewerkers/RMKuiper) from October 2021 to May 2022. In that time, I extensively tested functions from the [CTmeta R package](https://rdrr.io/github/rebeccakuiper/CTmeta/) and edited the documentation.
-[GitHub fork](https://github.com/judithneve/CTmeta) | [Test files](https://github.com/judithneve/testingCTmeta)
+[GitHub fork](https://github.com/judithneve/CTmeta) \| [Test files](https://github.com/judithneve/testingCTmeta)
 
 ## Teaching assistant project
 
