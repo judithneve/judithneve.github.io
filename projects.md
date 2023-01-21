@@ -4,8 +4,7 @@
 
 ### Master's thesis *[in progress]*
 
-**Title:** Evaluating tuning strategies for random forest hyperparameters with regards to prediction performance of clinical prediction models and computational time.
-
+**Title:** Evaluating tuning strategies for random forest hyperparameters with regards to prediction performance of clinical prediction models and computational time.<br>
 **Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) \| Zoe Dunias \| [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
 
 I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](https://juliuscentrum.umcutrecht.nl/en/). My project aims to improve tuning strategies for random forests with a dichotomous outcome, focusing on predictive performance via calibration. I aim to do this in three steps:
@@ -20,8 +19,7 @@ In a world where machine learning is growing exponentially and increasingly addi
 
 ### Undergraduate dissertation *[completed]*
 
-**Title:** The evolution of data sharing practices in the psychological literature.
-
+**Title:** The evolution of data sharing practices in the psychological literature.<br>
 **Supervisor:** [Dr. Guillaume Rousselet](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/guillaumerousselet/)
 
 This project focused on evaluating the rate at which data is shared and how it is shared over time. I focused on three journals that have implemented policies regarding data sharing and examined differences before and after policy implementations, as well as computing a baseline data sharing rate using three journals with no policies.
@@ -30,17 +28,17 @@ This project focused on evaluating the rate at which data is shared and how it i
 
 ### Other projects *[completed]*
 
-**Classification algorithm.** I took part in a project aiming to classify mushrooms as edible or poisonous based on a variety of visual characteristics. Multiple algorithms were used and compared.
+**Classification algorithm.** I took part in a project aiming to classify mushrooms as edible or poisonous based on a variety of visual characteristics. Multiple algorithms were used and compared.<br>
 [GitHub repository](https://github.com/judithneve/Getting-High-or-Die/blob/main/Group1_Assignment2_report.Rmd)
 
-**Gibbs sampler.** In order to deepen my understanding of Bayesian approaches, I have coded the entirety of a Gibbs sampler.
+**Gibbs sampler.** In order to deepen my understanding of Bayesian approaches, I have coded the entirety of a Gibbs sampler.<br>
 [GitHub repository](https://github.com/judithneve/GibbsSampler)
 
 ## Research assistant project
 
 ### CTmeta *[completed]*
 
-I worked as a research assistant for [Dr. Rebecca Kuiper](https://www.uu.nl/medewerkers/RMKuiper) from October 2021 to May 2022. In that time, I extensively tested functions from the [CTmeta R package](https://rdrr.io/github/rebeccakuiper/CTmeta/) and edited the documentation.
+I worked as a research assistant for [Dr. Rebecca Kuiper](https://www.uu.nl/medewerkers/RMKuiper) from October 2021 to May 2022. In that time, I extensively tested functions from the [CTmeta R package](https://rdrr.io/github/rebeccakuiper/CTmeta/) and edited the documentation.<br>
 [GitHub fork](https://github.com/judithneve/CTmeta) \| [Test files](https://github.com/judithneve/testingCTmeta)
 
 ## Teaching assistant project
@@ -53,7 +51,7 @@ Over summer 2022, I worked on making and updating online statistics lessons on t
 
 ### \#TidyTuesdays *[on a break]*
 
-I have occasionally taken part in the [#TidyTuesdays](https://github.com/rfordatascience/tidytuesday) challenges, which release a dataset each week and participants create visualisations.
+I have occasionally taken part in the [#TidyTuesdays](https://github.com/rfordatascience/tidytuesday) challenges, which release a dataset each week and participants create visualisations.<br>
 [Code](https://github.com/judithneve/Tidy-Tuesdays)
 
 ### Cards Against Humanity *[ongoing]*
