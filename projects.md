@@ -6,7 +6,7 @@
 
 **Title:** Evaluating tuning strategies for random forest hyperparameters with regards to prediction performance of clinical prediction models and computational time.
 
-**Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) | Zoë Dunias | [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
+**Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) | Zoe Dunias | [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
 
 I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](https://juliuscentrum.umcutrecht.nl/en/). My project aims to improve tuning strategies for random forests with a dichotomous outcome, focusing on predictive performance via calibration. I aim to do this in three steps:
 
