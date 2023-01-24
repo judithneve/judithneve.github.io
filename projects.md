@@ -52,7 +52,7 @@ Over summer 2022, I worked on making and updating online statistics lessons on t
 ### \#TidyTuesdays *[on a break]*
 
 I have occasionally taken part in the [#TidyTuesdays](https://github.com/rfordatascience/tidytuesday) challenges, which release a dataset each week and participants create visualisations.<br>
-[Code](https://github.com/judithneve/Tidy-Tuesdays)
+[GitHub repository](https://github.com/judithneve/Tidy-Tuesdays)
 
 ### Cards Against Humanity *[ongoing]*
 
@@ -60,4 +60,4 @@ In April 2020, after a fair few game nights with the people I was living with un
 
 ![](img/winners.png)
 
-[Code](https://github.com/judithneve/CardsAgainstHumanity)
+[GitHub repository](https://github.com/judithneve/CardsAgainstHumanity)
