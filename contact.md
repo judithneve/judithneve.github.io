@@ -32,7 +32,7 @@
 <div class="colempty">
 </div>
 <div class="collink">
-  <a href="mailto:j.a.nevedemevergnies@uu.nl">j.a.nevedemevergnies@uu.nl</a>
+  <a href="mailto:judith.nevedm@gmail.com">judith.nevedm@gmail.com</a>
 </div>
 </div>
 
