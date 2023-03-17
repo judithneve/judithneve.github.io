@@ -53,19 +53,6 @@
 
 <div class="row">
 <div class="colimage">
-  <img src="img/twitter.png" width="32" />
-</div>
-<div class="colempty">
-</div>
-<div class="collink">
-  <a href="https://twitter.com/JudithNeve">@JudithNeve</a>
-</div>
-</div>
-
-<br>
-
-<div class="row">
-<div class="colimage">
   <img src="img/github.png" width="32" />
 </div>
 <div class="colempty">
