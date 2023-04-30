@@ -15,7 +15,7 @@ I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](h
 
 In a world where machine learning is growing exponentially and increasingly adding to carbon emissions, this project also focuses on the computational time of tuning procedures.
 
-[GitHub repository](https://github.com/judithneve/HyperparameterTuning) \| <a href="https://judithneve.github.io/HyperparameterTuningPreliminaryResults.pdf" target="_blank">Report on preliminary results</a> \| [Shiny app visualising preliminary results](https://judithneve.shinyapps.io/practical_8/)
+[GitHub repository](https://github.com/judithneve/HyperparameterTuning) \| <a href="https://judithneve.github.io/HyperparameterTuningPreliminaryResults.pdf" target="_blank">Report on preliminary results</a> \| [Shiny app visualising results](https://judithneve.shinyapps.io/HyparparameterTuning/)
 
 ### Undergraduate dissertation *[completed]*
 
