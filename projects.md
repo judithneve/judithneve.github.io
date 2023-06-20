@@ -2,12 +2,12 @@
 
 ## Academic projects
 
-### Master's thesis *[in progress]*
+### Master's thesis *[completed]*
 
 **Title:** Evaluating tuning strategies for random forest hyperparameters with regards to prediction performance of clinical prediction models and computational time.<br>
 **Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) \| Zo&euml; Dunias \| [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
 
-I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](https://juliuscentrum.umcutrecht.nl/en/). My project aims to improve tuning strategies for random forests with a dichotomous outcome, focusing on predictive performance via calibration. I aim to do this in three steps:
+I did my thesis at Utrecht's University Medical Center's [Julius Centrum](https://juliuscentrum.umcutrecht.nl/en/). My project aims to improve tuning strategies for random forests with a dichotomous outcome, focusing on predictive performance via calibration. I aim to do this in three steps:
 
 1. Identify which hyperparameters have the largest effect on calibration.
 2. Identify a metric to optimise.
@@ -15,7 +15,7 @@ I am doing my thesis at Utrecht's University Medical Center's [Julius Centrum](h
 
 In a world where machine learning is growing exponentially and increasingly adding to carbon emissions, this project also focuses on the computational time of tuning procedures.
 
-[GitHub repository](https://github.com/judithneve/HyperparameterTuning) \| <a href="https://judithneve.github.io/HyperparameterTuningPreliminaryResults.pdf" target="_blank">Report on preliminary results</a> \| [Shiny app visualising results](https://judithneve.shinyapps.io/HyperparameterTuning/)
+[GitHub repository](https://github.com/judithneve/HyperparameterTuning) \| [Shiny app visualising results](https://judithneve.shinyapps.io/HyperparameterTuning/)
 
 ### Undergraduate dissertation *[completed]*
 
