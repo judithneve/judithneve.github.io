@@ -4,16 +4,14 @@
 
 **Supervisors:** [Dr. Maarten van Smeden](http://mvansmeden.net/) \| Zo&euml; Dunias \| [Dr. Ben van Calster](https://www.universiteitleiden.nl/en/staffmembers/ben-van-calster#tab-1)
 
-Tuning models can take hours - but is it worth it? In this project, I decided to explore how different tuning strategies affect model predictive performance and whether longer, more exhaustive procedures pay off. I did so by programming three simulation studies in R, executed via slurm on a high-performance computer.
-
+Tuning models can take hours - but is it worth it? In this project, I decided to explore how different tuning strategies affect model predictive performance and whether longer, more exhaustive procedures pay off. I did so by programming three simulation studies in R, executed via slurm on a high-performance computer.<br>
 [GitHub repository](https://github.com/judithneve/HyperparameterTuning) \| [Shiny app visualising results](https://judithneve.shinyapps.io/HyperparameterTuning/)
 
 ## Undergraduate dissertation: The evolution of data sharing practices in the psychological literature *(2020-2021)*
 
 **Supervisor:** [Dr. Guillaume Rousselet](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/guillaumerousselet/)
 
-This project focused on evaluating the rate at which data is shared and how it is shared over time. I combined data from three different sources and performed analyses in R. This study is being published in [Meta-Psychology](https://open.lnu.se/index.php/metapsychology/index)!
-
+This project focused on evaluating the rate at which data is shared and how it is shared over time. I combined data from three different sources and performed analyses in R. This study is being published in [Meta-Psychology](https://open.lnu.se/index.php/metapsychology/index)!<br>
 [OSF project](https://osf.io/567vb/) \| [Preprint](https://psyarxiv.com/3xdja)
 
 ## Classification algorithm *(2023)*
