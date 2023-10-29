@@ -1,9 +1,9 @@
 # About me
 
-I am a recent graduate from [Utrecht University](https://www.uu.nl/en)'s Master's in [Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences). My thesis focused on hyperparameter tuning of random forests, which allowed me to delve deep into machine learning techniques this year. In parallel, I followed the [Applied Data Science track](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences/tracks), which gave me a breadth of knowledge regarding current data science and machine learning techniques, including, but not limited to, supervised and unsupervised learning, regularisation, deep learning, time series and natural language processing.
+I recently started a position as a wind energy data analyst for [Bitbloom](https://bitbloom.tech/). This was the result of a strong desire to play a part in addressing the climate crisis and my passion for statistics and data. I am interested in taking analyses end-to-end, from meeting with clients to identify their needs, to delivering high-quality, understandable, and actionable results.
 
-Over the past two years, I have also done some teaching and consulting part-time. I developed course materials and gave statistics classes. I greatly enjoyed this, and would love my work to have a strong element of communication surrounding data - whether that is through listening to clients' needs and taking the rest into my own hands, working closely every step of the way to empower clients to do future analyses themselves, or anything in between!
+Outside of work, I am a hobby crocheter, an amateur cook, and an occasional swordfighter.
 
-Prior to this, I graduated from the [University of Glasgow](https://www.gla.ac.uk/) with a joint honours Bachelor's in Psychology and Statistics. While I chose to move away for my Master's, I am now back in Scotland - so that's where I'm looking for a job! I am open to work on location and remotely, what matters to me most is the purpose of my work - I aim to use my knowledge and abilities to help people or the climate. [Get in touch](https://judithneve.github.io/contact.html) if you have an opportunity for me!
+Feel free to [get in touch](https://judithneve.github.io/contact.html)!
 <br><br>
 <img src="img/progress.png" height="64" />&nbsp;&nbsp;<img src="img/planet.png" height="64" />&nbsp;&nbsp;<img src="img/laptop.png" height="64" />
